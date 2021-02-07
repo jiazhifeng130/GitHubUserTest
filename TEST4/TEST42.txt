@@ -1,6 +1,3 @@
-本地分支测试2
-<<<<<<< HEAD
-更新2
-=======
-更新1
->>>>>>> 668fb2f258bd94f623b21e09fcbbb3a6138fa6d0
+fenzhi ceshi 1
+update 1
+update 2
